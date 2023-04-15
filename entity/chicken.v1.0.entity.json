@@ -1,0 +1,22 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "minecraft:chicken",
+      "materials": {
+        "default": "chicken"
+      },
+      "textures": {
+        "default": "textures/entity/chicken"
+      },
+      "geometry": {
+        "default": "geometry.chicken"
+      },
+      "render_controllers": [ "controller.render.chicken" ],
+      "spawn_egg": {
+        "texture": "spawn_egg",
+        "texture_index": 0
+      }
+    }
+  }
+}
