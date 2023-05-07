@@ -1,12 +1,12 @@
 O que fazer:
 
-Trapdoor - Algodao Doce
+Algodao Doce - Lã Verde *
 
 ZombieeVillager - Ursinho de Gelatina 
 
 Panqueca
 
-Casquinha
+Casquinha - Madeira Escura *
 
 Bloco de Neve - Sorvete 
 
@@ -18,7 +18,7 @@ Porta Doce
 
 Bala branca e vermelha
 
-M&M
+M&M - Creeper * 
 
 Botao de confeitos 
 
@@ -28,9 +28,9 @@ Pirulito de outras cores
 
 Pirulito de Coração 
 
-Chiclete
+Chiclete - Pudim *
 
-Bombom
+Bombom - Jungle Trapdoor *
 
 Goma 
 
@@ -40,7 +40,7 @@ Textura vulcão
 
 Brownie
 
-Oreo
+Oreo - Iron block * 
 
 Bala laranja (sla)
 
