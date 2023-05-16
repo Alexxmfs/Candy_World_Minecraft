@@ -34,9 +34,9 @@ Bombom - Jungle Trapdoor *
 
 Goma 
 
-Torta de Maça
+Torta de Maça - Minério de Quartz *
 
-Textura vulcão 
+Textura vulcão - Pedra e Cogumelo Marrom*
 
 Brownie
 
@@ -50,7 +50,7 @@ Sorvete de palito (sla)
 
 Bolo pique casamento 
 
-Chao de Chantili 
+Chao de Sorvete (Chantili) - Neve *
 
 Ovao de Pascoa
 
