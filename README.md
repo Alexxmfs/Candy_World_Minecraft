@@ -25,6 +25,9 @@ Imagine caminhar por uma paisagem de sorvete com montanhas de donut, árvores de
 
 Este addon oferece uma experiência única de jogo que certamente agradará a todos com uma doce aventura. Então prepare sua mochila e não se esqueça de trazer um bom apetite, porque você está prestes a entrar no mundo dos sonhos de qualquer pessoa com um dente doce.
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/Alexxmfs/Candy_World_Minecraft/master/Castle.png"  />
+</p>
 
 # Licença
 
