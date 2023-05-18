@@ -1,0 +1,22 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "ursinho:goma",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/goma"
+			},
+			"geometry": {
+				"default": "geometry.goma"
+			},
+			"render_controllers": ["controller.render.default"],
+			"spawn_egg": {
+				"base_color": "#2ea210",
+				"overlay_color": "#ffffff"
+			}
+		}
+	}
+}
