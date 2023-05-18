@@ -1,0 +1,30 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Toddynho",
+		"description": "Toddynho Behavior Pack",
+		"uuid": "b9d93857-4dc9-00fa-cca4-0ae4050c1c2b",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["HENRIQUEEEE"],
+		"generated_with": {
+			"blockbench_entity_wizard": ["1.1.1"]
+		}
+	},
+	"modules": [
+		{
+			"description": "Behavior",
+			"version": [1, 0, 0],
+			"uuid": "ec543b81-2b84-aebc-17cc-39acebf0fbdc",
+			"type": "data"
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "a6e1f406-867f-1de7-2a76-52b931430042",
+			"version": [1, 0, 0]
+		}
+	]
+}

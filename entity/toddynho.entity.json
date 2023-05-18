@@ -1,0 +1,22 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "cw:toddynho",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/toddynho"
+			},
+			"geometry": {
+				"default": "geometry.toddynho"
+			},
+			"render_controllers": ["controller.render.default"],
+			"spawn_egg": {
+				"base_color": "#4d2904",
+				"overlay_color": "#ff0000"
+			}
+		}
+	}
+}
