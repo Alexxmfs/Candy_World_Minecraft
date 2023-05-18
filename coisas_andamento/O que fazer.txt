@@ -2,7 +2,7 @@ O que fazer:
 
 Algodao Doce - Lã Verde *
 
-ZombieeVillager - Ursinho de Gelatina 
+Piglin - Ursinho de Gelatina *
 
 Panqueca - Madera Mangue *
 
@@ -12,7 +12,7 @@ Bloco de Neve - Sorvete *
 
 Bolinho - Madeira Escura Descascada *
 
-Cauda do Bolinho
+Cauda do Bolinho - raw iron block *
 
 Porta Doce - Porta Padrão *
 
@@ -20,38 +20,38 @@ Bala branca e vermelha - Tora de Carvalho Descascada *
 
 M&M - Creeper * 
 
-Botao de confeitos 
+Botao de confeitos - Madeira de Carmesim *
 
-Tapete estrela
+Tapete estrela - Lã Branca *
 
-Pirulito de outras cores
+Pirulito de outras cores - Construido *
 
-Pirulito de Coração 
+Pirulito de Coração - Trapdoor Verde *
 
 Chiclete - Pudim *
 
 Bombom - Jungle Trapdoor *
 
-Goma 
+Goma - Granito *
 
 Torta de Maça - Minério de Quartz *
 
-Textura vulcão - Pedra e Cogumelo Marrom*
+Textura vulcão - Pedra e Cogumelo Marrom *
 
-Brownie
+Brownie - Tijolo *
 
 Oreo - Iron block * 
 
-Bala laranja (sla)
+Bala laranja (sla) - Tijolo Pedra quebrado *
 
-Calda
+Calda - Telhado *
 
-Sorvete de palito (sla)
+Sorvete de palito (sla) - Mangue Trapdoor *
 
-Bolo pique casamento 
+Bolo Redvelvet - Madeira de Carvalho Lapada *
 
 Chao de Sorvete (Chantili) - Neve *
 
-Ovao de Pascoa
+Ovao de Pascoa - Trapdoor Ferro *
 
-Donut
+Donut - Terra *
