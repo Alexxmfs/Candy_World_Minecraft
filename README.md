@@ -14,6 +14,9 @@
 - Henrique Sardella (https://github.com/henrique-sdc)
 - Thiago Hilario (https://github.com/ThiagoAlonso05)
 <br>
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=GREEN&style=for-the-badge)
+
 <p align="center">
 <img src="https://github.com/Alexxmfs/Candy_World_Minecraft/blob/master/pack_icon.png?raw=true" width="650px" height="650px" />
 </p>
