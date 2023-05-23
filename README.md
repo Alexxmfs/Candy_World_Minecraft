@@ -28,7 +28,7 @@ Imagine caminhar por uma paisagem de sorvete com montanhas de donut, árvores de
 
 Este addon oferece uma experiência única de jogo que certamente agradará a todos com uma doce aventura. Então prepare sua mochila e não se esqueça de trazer um bom apetite, porque você está prestes a entrar no mundo dos sonhos de qualquer pessoa com um dente doce.
 
-O Addon foi feito para ser usado no Minecraft Education, basta clonar esse repositório na pasta "development_resource_packs" do Minecraft Education, siga esse caminho, "C:\Users\(USUÁRIO)\AppData\Roaming\Minecraft Education Edition\games\com.mojang\development_resource_packs". Após esse procedimento o Addon já aparecerá em seu jogo e basta ativá-lo nas configurações do mundo que você quer usar, ou então, importe nosso mundo que está na pasta "mundo" para dentro do jogo. 
+O Addon foi feito para ser usado no Minecraft Education, basta clonar esse repositório na pasta "development_resource_packs" do Minecraft Education, siga esse caminho, "C:\Users\(USUÁRIO)\AppData\Roaming\Minecraft Education Edition\games\com.mojang\development_resource_packs", depois copie a pasta "Candy_World_BP" cole ela na pasta "development_behavior_packs" e apague. Após esse procedimento o Addon já aparecerá em seu jogo e basta ativá-lo nas configurações do mundo que você quer usar, ou então, importe nosso mundo que está na pasta "mundo" para dentro do jogo. 
 
 <br>
 
